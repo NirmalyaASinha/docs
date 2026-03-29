@@ -1,0 +1,9 @@
+{
+  "name": "ExpenseAI Documentation",
+  "sidebar": [
+    { "label": "Overview", "link": "/" },
+    { "label": "API Reference", "link": "/api-reference" }
+  ],
+  "logo": "https://raw.githubusercontent.com/NirmalyaASinha/Fin_AI/main/public/logo.png",
+  "github": "https://github.com/NirmalyaASinha/ExpenseAI-docs"
+}
